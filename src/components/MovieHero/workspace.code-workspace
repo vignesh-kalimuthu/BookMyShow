@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "C:\\Users\\ADISH\\Nodejs"
+		},
+		{
+			"path": "..\\..\\..\\..\\my-app"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "FSD projects",
+        "git.ignoreLimitWarning": true
+    }
+}
